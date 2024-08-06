@@ -36,7 +36,7 @@ I created another bucket in the OHIO (us-eat-2) region. This is to aid in adding
 <img width="1182" alt="Screenshot 2024-08-05 at 5 29 16 PM" src="https://github.com/user-attachments/assets/1defda94-3a0b-4121-ac01-49e09ab261dc">
 
 ## Created a replication rule
-I created a replication rule to replicate new files added to the website-1200 bucket into the newly created bucket in us-eat-2
+I created a replication rule to replicate new files added to the website-1200 bucket into the newly created bucket in us-east-2
 <img width="1196" alt="Screenshot 2024-08-05 at 5 29 45 PM" src="https://github.com/user-attachments/assets/6ee7a783-f5cd-4b97-a7cf-437dcf975636">
 
 ## Made few changes
@@ -44,7 +44,7 @@ I changed the "Served from Amazon s3" in the html file to "Created by Jonas Adji
 <img width="1503" alt="Screenshot 2024-08-05 at 3 15 28 PM" src="https://github.com/user-attachments/assets/8ddc32f3-06e2-42c0-88f6-ce4777c63360">
 
 ## Replication rule worked
-After the changes in the index.html, it replicated the new file into the newly created bucket in OHIO (eu-eat-2)
+After the changes in the index.html, it replicated the new file into the newly created bucket in OHIO (us-east-2)
 <img width="1183" alt="Screenshot 2024-08-05 at 5 29 00 PM" src="https://github.com/user-attachments/assets/a739d766-ea4c-4353-b793-d154f9fb254c">
 
 
