@@ -28,9 +28,8 @@ After making the files public, i was able to access the website.
 <img width="1496" alt="Screenshot 2024-08-05 at 3 09 44 PM" src="https://github.com/user-attachments/assets/5cb9d883-4050-4e4a-86c1-b961bcb26a7c">
 
 ## Created a lifecycle Policy for bucket.
-I created a lifecycle policy to transition old version of files into Standard IA and also also delete the files after 365 days.
+I created a lifecycle policy to transition old version of files into Standard IA and also delete the files after 365 days.
 <img width="1192" alt="Screenshot 2024-08-05 at 5 29 34 PM" src="https://github.com/user-attachments/assets/017f135e-d53f-4e57-8451-b66f8839497c">
-
 
 ## Created a different bucket in another region
 I created another bucket in the OHIO (us-eat-2) region. This is to aid in adding a replication rules
